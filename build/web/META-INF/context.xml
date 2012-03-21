@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Resume">
+  <Resource auth="Container" driverClassName="sun.jdbc.odbc.JdbcOdbcDriver" maxActive="20" maxIdle="10" maxWait="-1" name="resumeJndi" password="" type="javax.sql.DataSource" url="jdbc:odbc:resume" username=""/>
+  <Resource auth="Container" driverClassName="sun.jdbc.odbc.JdbcOdbcDriver" maxActive="20" maxIdle="10" maxWait="-1" name="resume" password="" type="javax.sql.DataSource" url="jdbc:odbc:resume" username=""/>
+</Context>
